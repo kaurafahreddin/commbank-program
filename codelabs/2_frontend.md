@@ -393,3 +393,7 @@ export function GoalManager(props: Props) {
     {/* ... */}
   )
 }
+git checkout -b icons
+
+git commit -am "Support icons"
+  const hasIcon = () => icon != null
